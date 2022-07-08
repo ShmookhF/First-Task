@@ -1,0 +1,10 @@
+$ git clone https://github.com/JetsonHacksNano/installROS.git 
+$ /cd installROS
+$ ls
+$ ./installROS -h
+$ ./installROS.sh -p ros-melodic-desktop
+$ ./setupCatkinWorkspace.sh
+$ gedit ~/.bashrc
+$ source ~/.bashrc
+$ roscore
+$ rostopic list
