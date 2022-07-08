@@ -1,2 +1,2 @@
 # First-Task
-type the algorithm in Jetson Nano !! 
+download ROS and type the algorithm in Jetson Nano !! 
